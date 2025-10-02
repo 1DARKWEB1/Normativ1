@@ -80,6 +80,13 @@ Normativ1/
 
 <img width="924" height="322" alt="botn2" src="https://github.com/user-attachments/assets/c3f6e027-861c-4447-8168-73e3b676ba83" />
 
+---
+
+## Код проекта
+
+<img width="1153" height="859" alt="botn3" src="https://github.com/user-attachments/assets/8694f2a6-1663-4ec4-b7b0-03dc14488050" />
+
+
 Aiogram — Telegram Bot Framework
 
 Django — админка и ORM
