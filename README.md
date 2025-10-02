@@ -26,12 +26,12 @@
 
 ## 📂 Структура проекта
 Normativ1/
--│── manage.py
--│── Normativ1/  # Telegram-бот
--│ └── settings.py # Настройки Django
--│── core/
--│ ├── models.py # Модель BotUser
--│ └── admin.py # Подключение модели в админку
+- │── manage.py
+- │── Normativ1/  # Telegram-бот
+- │ └── settings.py # Настройки Django
+- │── core/
+- │ ├── models.py # Модель BotUser
+- │ └── admin.py # Подключение модели в админку
 
 ---
 
@@ -59,7 +59,7 @@ TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 
 ---
 
-##💻 Пример работы бота
+## 💻 Пример работы бота
 /start
 
 Копировать код
@@ -94,6 +94,4 @@ Aiogram — Telegram Bot Framework
 Django — админка и ORM
 
 PostgreSQL — база данных
-
-asgiref.sync.sync_to_async — асинхронная работа с ORM
 
