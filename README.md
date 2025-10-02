@@ -38,24 +38,18 @@ Normativ1/
 ## ⚙ Установка и запуск
 
 ### 1. Клонирование репозитория
-bash
-git clone https://github.com/username/telegram-django-bot.git
-cd telegram-django-bot
-2. Установка зависимостей
-bash
-Копировать код
-pip install -r requirements.txt
-
-python manage.py runserver
-Админка будет доступна по адресу: http://127.0.0.1:8000/admin/
+- bash
+- git clone https://github.com/username/telegram-django-bot.git
+- cd telegram-django-bot
+### 2. Установка зависимостей
+- pip install -r requirements.txt
+- python manage.py runserver
+- Админка будет доступна по адресу: http://127.0.0.1:8000/admin/
 
 3. Запуск Telegram-бота
-В файле normativ2.py вставьте ваш токен бота:
-
-python
-Копировать код
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-Запуск:
+- В файле normativ2.py вставьте ваш токен бота:
+- TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+- Запуск:
 
 ---
 
@@ -66,26 +60,22 @@ TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 👋 Привет! Ты зарегистрирован в базе ✅
 /info
 
-makefile
-Копировать код
-📝 Твои данные:
-ID: 12345678
-Имя: Jasurjon
-Username: @jasur
-Дата регистрации: 2025-10-01
+- 📝 Твои данные:
+- ID: 12345678
+- Имя: Jasurjon
+- Username: @jasur
+- Дата регистрации: 2025-10-01
 
 <img width="914" height="215" alt="botn1" src="https://github.com/user-attachments/assets/14e4ef71-aa6b-42ce-a975-e5a27f4d29e8" />
 
 ---
 
 /users
-python
-Копировать код
-👥 Пользователи:
-@alex (Alex Ivanov)
-@jasur (Jasurjon)
-🛠 Технологии
-Python 3.10+
+- 👥 Пользователи:
+- @alex (Alex Ivanov)
+- @jasur (Jasurjon)
+- 🛠 Технологии
+- Python 3.10+
 
 <img width="924" height="322" alt="botn2" src="https://github.com/user-attachments/assets/c3f6e027-861c-4447-8168-73e3b676ba83" />
 
