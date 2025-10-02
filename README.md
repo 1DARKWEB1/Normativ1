@@ -82,9 +82,10 @@ Normativ1/
 
 ---
 
-## Код проекта
+## Запросы к БД
 
 <img width="1153" height="859" alt="botn3" src="https://github.com/user-attachments/assets/8694f2a6-1663-4ec4-b7b0-03dc14488050" />
+
 
 
 Aiogram — Telegram Bot Framework
