@@ -34,6 +34,8 @@ Normativ1/
 │ ├── models.py # Модель BotUser
 │ └── admin.py # Подключение модели в админку
 
+---
+
 ## ⚙ Установка и запуск
 
 ### 1. Клонирование репозитория
@@ -56,6 +58,8 @@ python
 TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 Запуск:
 
+---
+
 💻 Пример работы бота
 /start
 
@@ -70,9 +74,12 @@ ID: 12345678
 Имя: Jasurjon
 Username: @jasur
 Дата регистрации: 2025-10-01
-/users
+
 <img width="914" height="215" alt="botn1" src="https://github.com/user-attachments/assets/14e4ef71-aa6b-42ce-a975-e5a27f4d29e8" />
 
+---
+
+/users
 python
 Копировать код
 👥 Пользователи:
@@ -80,6 +87,7 @@ python
 @jasur (Jasurjon)
 🛠 Технологии
 Python 3.10+
+
 <img width="924" height="322" alt="botn2" src="https://github.com/user-attachments/assets/c3f6e027-861c-4447-8168-73e3b676ba83" />
 
 Aiogram — Telegram Bot Framework
